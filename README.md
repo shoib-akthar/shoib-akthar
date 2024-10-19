@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shoib Akthar</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm an experienced Unity Developer with a passion for creating immersive 3D/2D games and innovative AR/VR solutions. </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShoibAkthar&label=Profile%20views&color=0e75b6&style=flat" alt="ShoibAkthar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shoib-akthar&label=Profile%20views&color=0e75b6&style=flat" alt="shoib-akthar" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShoibAkthar" alt="ShoibAkthar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoib-akthar" alt="shoib-akthar" /></a> </p>
 
 - 🔭 I’m currently working on **Unity for AR/VR solutions**  
 - 🌱 I’m learning **Unity XR, WebGL**  
@@ -40,10 +40,10 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShoibAkthar&show_icons=true&locale=en&layout=compact" alt="Shoib Akthar's Most Used Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoib-akthar&show_icons=true&locale=en&layout=compact" alt="Shoib Akthar's Most Used Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShoibAkthar&show_icons=true&locale=en" alt="Shoib Akthar's GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoib-akthar&show_icons=true&locale=en" alt="Shoib Akthar's GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShoibAkthar&" alt="Shoib Akthar's GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoib-akthar&" alt="Shoib Akthar's GitHub Streak" /></p>
 
 Thank you for visiting my profile! Have an awesome day! 
