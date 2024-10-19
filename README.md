@@ -46,4 +46,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShoibAkthar&" alt="Shoib Akthar's GitHub Streak" /></p>
 
-Thank you for visiting my profile! Have an awesome day! 😁
+Thank you for visiting my profile! Have an awesome day! 
